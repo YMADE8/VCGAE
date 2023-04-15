@@ -14,6 +14,9 @@ The codes of our VCGAE are implemented under the following development environme
 <ul>
   <li style="list-style-type:circle;">JD</li>
 </ul>
+
+
+
 ```python
 python   VCGAE.py    --tst_file /tst_buy     --tradeOff=0.05  --tradeOff_cr=0.1 
 ```
