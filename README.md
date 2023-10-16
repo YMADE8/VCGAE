@@ -26,6 +26,7 @@ The codes of our VCGAE are implemented under the following development environme
 python   VCGAE.py    --tst_file /tst_buy     --tradeOff=0.05  --tradeOff_cr=0.1 
 ```
 
+/*
 ## Partial results
 The following table shows the recommendation performance of our VCGAE on JD, Tmall, and UB dataset.
 
@@ -34,5 +35,5 @@ The following table shows the recommendation performance of our VCGAE on JD, Tma
 |VCGAE|JD|0.0343|0.1444|0.1947|0.1095|
 |VCGAE|Tmall|0.0014|0.0065| 0.0131| 0.0069|
 |VCGAE|UB|0.0081 | 0.0457 | 0.0670| 0.0487 |
-
+*/
 
