@@ -4,7 +4,6 @@
   <li style="list-style-type:circle;"> Dataset
   <li style="list-style-type:circle;"> Codes
 </ul>
-This repository contains TensorFlow codes and datasets for our paper.
 
 ## Environment
 The codes of our VCGAE are implemented under the following development environment:
