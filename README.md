@@ -20,7 +20,7 @@ The codes of our VCGAE are implemented under the following development environme
 </ul>
 
 ```python
-python VCGAE.py --dataset JD --tst_file /tst_buy --n=10690  --m=13465  --layer_size=[100,100,100]   --lr=0.001  --node_dropout_flag=1  --node_dropout=[0.1]   --mess_dropout=[0.1]   --tradeOff=0.1  --tradeOff_cr=0.1    --Ks=[5,10,15]  
+python VCGAE.py --dataset JD  --n=10690  --m=13465 --tst_file /tst_buy --layer_size=[100,100,100]   --lr=0.001  --node_dropout_flag=1  --node_dropout=[0.1]   --mess_dropout=[0.1]   --tradeOff=0.1  --tradeOff_cr=0.1    --Ks=[5,10,15]  
 ```
 
 <ul>
